@@ -2,7 +2,7 @@
 
 AI Engineer at [Zapier](https://zapier.com) · Builder · Based in South Florida
 
-Obsessed with making AI actually *do* things — agents, automation, tools that eliminate the boring parts of work. When I'm not shipping at Zapier, I'm building my own stuff.
+Obsessed with making AI actually *do* things: agents, automation, tools that eliminate the boring parts of work. When I'm not shipping at Zapier, I'm building my own stuff.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -13,13 +13,13 @@ Obsessed with making AI actually *do* things — agents, automation, tools that 
 
 ## What I'm Building
 
-- 🎙️ **[whisper.cpp-nextjs](https://github.com/enesgrahovac/whisper.cpp-nextjs)** — Local speech-to-text in the browser via whisper.cpp + Next.js
+- 🎙️ **[whisper.cpp-nextjs](https://github.com/enesgrahovac/whisper.cpp-nextjs)** - Local speech-to-text in the browser via whisper.cpp + Next.js
 
 ---
 
 ## Background
 
-I've been building across the stack for a while — Flutter apps, ML experiments, AI integrations. My work tends to live at the intersection of language models and real-world workflows. 
+I've been building across the stack for a while: Flutter apps, ML experiments, AI integrations. My work tends to live at the intersection of language models and real-world workflows.
 
 Before Zapier I was doing ML engineering (NLP, transformers, computer vision). These days I spend most of my time thinking about agentic systems and how to make automation feel less like programming and more like delegation.
 
