@@ -28,5 +28,5 @@ Before Zapier I was doing ML engineering (NLP, transformers, computer vision). T
 ## Connect
 
 [![X](https://img.shields.io/badge/-@EnesGrahovac-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/EnesGrahovac)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enesgrahovac)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-grahovac-105/)
 [![Website](https://img.shields.io/badge/-enesxgrahovac.com-000000?style=flat-square&logo=safari&logoColor=white)](https://enesxgrahovac.com)
