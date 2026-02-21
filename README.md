@@ -8,16 +8,12 @@ Obsessed with making AI actually *do* things — agents, automation, tools that 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
 ## What I'm Building
 
-- 🤖 **[ledger-agent](https://github.com/enesgrahovac/ledger-agent)** — AI-powered ledger and financial tracking agent
 - 🎙️ **[whisper.cpp-nextjs](https://github.com/enesgrahovac/whisper.cpp-nextjs)** — Local speech-to-text in the browser via whisper.cpp + Next.js
-- 🐦 **[thoughtfulx](https://github.com/enesgrahovac/thoughtfulx)** — A tool to make you more intentional when using X
-- 📄 **[pdf-service](https://github.com/enesgrahovac/pdf-service)** — Docker-powered PDF layout analysis and segmentation service
 
 ---
 
